@@ -32,11 +32,11 @@ const help = (prefix) => {
 ║  ➩ ${prefix}blocklist
 ║     【LISTA DE BLOCK】
 ║  ➩ ${prefix}chatlist
-║     【LISTA CHAT】❌
+║     【LISTA CHAT】
 ║  ➩ ${prefix}ping
 ║     【PING】
 ║  ➩ ${prefix}bugreport
-║     【REPORTA BUG】❌
+║     【REPORTA BUG】
 ╠═════════════════════════               
 ║      *🔥𝚉𝙾𝙰𝙲𝙰𝙾🔥* 
 ║
